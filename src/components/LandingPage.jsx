@@ -54,7 +54,7 @@ const LandingPage = ({ onLogin }) => {
             className="flex items-center gap-3 px-8 py-4 bg-gray-800 hover:bg-gray-700 text-white font-bold rounded-full text-lg transition-all border border-gray-700 hover:border-gray-500"
           >
             <Code size={20} />
-            <span>Dev Mode</span>
+            <span>Try Demo</span>
           </button>
         </div>
 
